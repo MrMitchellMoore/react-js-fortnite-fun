@@ -1,0 +1,1 @@
+This project is react with a fortnite api which was fun and hopefully you like it. Alot of the foundation of it came from code i saw and i played around with it and got it to work. To get it to work, just uncomment the line in the fetch calls. 
